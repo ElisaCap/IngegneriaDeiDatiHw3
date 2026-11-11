@@ -95,7 +95,7 @@ public class Indexer {
                     Field.Store.YES
                 ));
     
-                String id = f.getAbsolutePath();
+                 String id = f.getAbsolutePath();
                 doc.add(new StringField("id", id, Field.Store.YES));
                 this.writer.updateDocument(new Term("id", f.getAbsolutePath()), doc);
                 this.writer.commit();

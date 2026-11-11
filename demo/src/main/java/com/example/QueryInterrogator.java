@@ -54,7 +54,7 @@ public QueryInterrogator(String query, Indexer indexer) throws ParseException, I
     this.indexer=indexer;
     this.reader = DirectoryReader.open(this.indexer.getDirectory());
     this.searcher = new IndexSearcher(reader);
-    this.queryParser = new QueryParser("titolo", new WhitespaceAnalyzer());
+    this.queryParser = new QueryParser("titolo", this.indexer.getConfig().getAnalyzer());
     this.query=this.queryParser.parse(query);
 }
 
