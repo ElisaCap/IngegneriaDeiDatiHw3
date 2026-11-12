@@ -30,13 +30,13 @@ public class App {
 
     
     public static void main(String[] args) throws Exception {
-
-      //  Indexer indexer = new Indexer(Paths.get("IngegneriaDeiDatiHw3/demo/Indexes"));
-        //long start = System.nanoTime();
-      //  indexer.indexFiles("IngegneriaDeiDatiHw3/demo/documents");
+        /* 
+        Indexer indexer = new Indexer(Paths.get("IngegneriaDeiDatiHw3/demo/Indexes"));
+       long start = System.nanoTime();
+       indexer.indexFiles("IngegneriaDeiDatiHw3/demo/documents");
         
 
-       /* long end = System.nanoTime();
+        long end = System.nanoTime();
         double seconds = (end - start) / 1_000_000_000.0;
         System.out.println("Tempo di indicizzazione: "
                 + seconds + " secondi");
