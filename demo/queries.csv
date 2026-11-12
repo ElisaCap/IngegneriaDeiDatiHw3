@@ -1,0 +1,51 @@
+﻿query_id,query,tipo,documenti_rilevanti_attesi
+Q01,contenuto sostengo,termine_singolo,4
+Q02,contenuto accesa,termine_singolo,2
+Q03,contenuto cerebrali,termine_singolo,1
+Q04,contenuto quesito,termine_singolo,2
+Q05,contenuto mista,termine_singolo,2
+Q06,contenuto sera,termine_singolo,6
+Q07,contenuto solamente,termine_singolo,17
+Q08,contenuto test,termine_singolo,10
+Q09,contenuto vite,termine_singolo,7
+Q10,contenuto sostegno,termine_singolo,6
+Q11,contenuto 2021,termine_singolo,41
+Q12,contenuto argomenti,termine_singolo,26
+Q13,contenuto futuro,termine_singolo,36
+Q14,contenuto positivi,termine_singolo,32
+Q15,contenuto professore,termine_singolo,29
+Q16,contenuto dimostrazione irreversibile,OR,32
+Q17,contenuto interruzione volte,OR,31
+Q18,contenuto quaranta dover,OR,23
+Q19,contenuto perdite dalla,OR,57
+Q20,contenuto crea oppure,OR,25
+Q21,contenuto preparazione apprende,OR,10
+Q22,contenuto contrario proposito,OR,17
+Q23,contenuto presente fornendo,OR,15
+Q24,contenuto provato incontrava,OR,9
+Q25,contenuto ognuno maturato,OR,12
+Q26,contenuto irreversibile socialità,OR,36
+Q27,contenuto volte compreso,OR,36
+Q28,contenuto dover permesso,OR,30
+Q29,contenuto dalla abbastanza,OR,66
+Q30,contenuto oppure limitato,OR,29
+Q31,"contenuto ""personalmente questa situazione""",frase,1
+Q32,"contenuto ""oggi sono sempre""",frase,1
+Q33,"contenuto ""molti studenti ritengono""",frase,1
+Q34,"contenuto ""causa della didattica""",frase,1
+Q35,"contenuto ""suoi lati negativi""",frase,1
+Q36,"contenuto ""studenti dichiarano segnali""",frase,3
+Q37,"contenuto ""potrebbe anche pensare""",frase,1
+Q38,"contenuto ""altro grande problema""",frase,2
+Q39,"contenuto ""molto tempo davanti""",frase,1
+Q40,"contenuto ""miglioramento dell organizzazione""",frase,1
+Q41,nome ZA21BA_ECH20W.txt,titolo,1
+Q42,nome GH17BX_SEE06L.txt,titolo,1
+Q43,nome BE02GA_CIUMAMI04.txt,titolo,1
+Q44,nome RU13GA_GUE12Y.txt,titolo,1
+Q45,nome ZO05PA_GAY23A.txt,titolo,1
+Q46,nome FO03TO_NOV08F.txt,titolo,1
+Q47,nome CM07BN_MAS12G.txt,titolo,1
+Q48,nome AC20PA_MOH28R.txt,titolo,1
+Q49,nome TA08RA_PIO15M.txt,titolo,1
+Q50,nome DM08TO_SUM07C.txt,titolo,1
