@@ -30,7 +30,7 @@ public class App {
 
     
     public static void main(String[] args) throws Exception {
-        /* 
+        
         Indexer indexer = new Indexer(Paths.get("IngegneriaDeiDatiHw3/demo/Indexes"));
        long start = System.nanoTime();
        indexer.indexFiles("IngegneriaDeiDatiHw3/demo/documents");
@@ -53,9 +53,9 @@ public class App {
         
         interrogator.interrogator();
         interrogator.close();
-        indexer.close();*/
-       Evaluator evaluator = new Evaluator();
-        evaluator.valuta("IngegneriaDeiDatiHw3/demo");
+        indexer.close();
+        //Evaluator evaluator = new Evaluator();
+        //evaluator.valuta("IngegneriaDeiDatiHw3/demo");
 
     }
 
