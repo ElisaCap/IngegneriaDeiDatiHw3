@@ -100,7 +100,7 @@ public class Indexer {
     public void evaluate() throws Exception {
         Evaluator evaluator = new Evaluator();
         List<Path> files;
-        try (Stream<Path> s = Files.list(Paths.get("IngegneriaDeiDatiHw3/demo/documents"))) {
+        try (Stream<Path> s = Files.list(Paths.get("demo/documents"))) {
             files = s.filter(Files::isRegularFile).filter(p -> p.toString().endsWith(".txt")).sorted().collect(Collectors.toList());
         }
     }
